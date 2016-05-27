@@ -168,8 +168,8 @@ Here are the modules we'll work through for this workshop, though we probably wo
         - [Exercise: writing BUGS code](exercises_slides.html#(1))
     2. [Building a model in NIMBLE](build_model_slides.html)
     3. [MCMC concepts](mcmc_concepts_slides.html)
-        - [Exercise: building a model](exercises_slides.html#(2))
     4. [Running an MCMC](run_mcmc_slides.html)
+        - [Exercise: building a model](exercises_slides.html#(2))
     5. [Customizing an MCMC](customizing_mcmc_slides.html)
         - [Exercise: Modifying MCMC samplers](exercises_slides.html#(3))
  - More details of specifying BUGS models
